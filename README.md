@@ -17,7 +17,7 @@ but you can also use your own data.
 Via [Composer](http://getcomposer.org/):
 
 ```
-composer require mattketmo/email-checker
+composer require ph2m/email-checker
 ```
 
 ## Usage
