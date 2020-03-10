@@ -1,12 +1,12 @@
 {
-    "name": "mattketmo/email-checker",
+    "name": "ph2m/email-checker",
     "description": "Throwaway email detection library",
     "license": "MIT",
     "keywords": ["email", "check", "throwaway", "disposable"],
     "authors": [
         {
-            "name": "Matthieu Moquet",
-            "email": "matthieu@moquet.net"
+            "name": "PH2M",
+            "email": "contact@ph2m.com"
         }
     ],
     "require": {
